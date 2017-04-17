@@ -1,18 +1,5 @@
-# frame.js
+# WebVR experiments
 
-Work in progres...
-
-### Editor
-
-* http://mrdoob.github.io/frame.js/editor/
-
-### Examples
-
-* http://mrdoob.github.io/frame.js/player/?file=../examples/threejs_cube.frame.json  
-* http://mrdoob.github.io/frame.js/player/?file=../examples/threejs_shaders.frame.json
-
-### Projects
-
-* https://with.in/watch/under-neon-lights/  
-* http://fernandojsg.com/lab/thiswayjs/  
-* http://xplsv.github.io/obsidian/
+Based on the fine work from mr.doob's frame.js & three.js these are some early
+attempts to follow an animated timeline for VR rendered content set to some
+musical doodles from me.
